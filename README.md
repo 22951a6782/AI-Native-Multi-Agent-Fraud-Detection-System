@@ -289,8 +289,8 @@ Jatayu/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/pragvamsh/Autonomous-Fraud-Detection-System.git
-cd Autonomous-Fraud-Detection-System
+git clone https://github.com/22951a6782/AI-Native-Multi-Agent-Fraud-Detection-System.git
+cd AI-Native-Multi-Agent-Fraud-Detection-System
 ```
 
 ### 2. Backend Setup
